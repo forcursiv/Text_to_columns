@@ -87,7 +87,7 @@ int main()
         {
             if (column != total_columns)
             {
-                fout << "~~~~~~~~~~";
+                fout << "          ";
                 column++;
             }
             else
